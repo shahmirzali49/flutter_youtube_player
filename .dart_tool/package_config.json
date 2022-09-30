@@ -87,7 +87,7 @@
     },
     {
       "name": "flutter_inappwebview",
-      "rootUri": "../../flutter_inappwebview",
+      "rootUri": "../flutter_inappwebview",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
@@ -338,7 +338,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2022-09-30T20:53:45.782514Z",
+  "generated": "2022-09-30T21:13:03.933196Z",
   "generator": "pub",
   "generatorVersion": "2.18.2"
 }
