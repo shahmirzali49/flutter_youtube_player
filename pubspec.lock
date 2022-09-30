@@ -98,11 +98,13 @@ packages:
     source: sdk
     version: "0.0.0"
   flutter_inappwebview:
-    dependency: "direct main"
+    dependency: "direct overridden"
     description:
-      path: flutter_inappwebview
-      relative: true
-    source: path
+      path: "."
+      ref: ios-16-compile-issue
+      resolved-ref: b3ec6012d2e92c133c8258bd8eedbb5ee8a9eaac
+      url: "https://github.com/VictorUvarov/flutter_inappwebview.git"
+    source: git
     version: "5.4.3+7"
   flutter_test:
     dependency: "direct dev"
