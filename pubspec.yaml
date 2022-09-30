@@ -3,16 +3,18 @@ description: Flutter plugin for playing or streaming inline YouTube videos using
 version: 8.1.0
 repository: https://github.com/sarbagyastha/youtube_player_flutter
 homepage: https://github.com/sarbagyastha/youtube_player_flutter/tree/master/packages/youtube_player_flutter
-
+publish_to: none
 environment:
-  sdk: '>=2.17.0 <3.0.0'
-  flutter: '>=3.0.0'
+  sdk: '>=2.18.2 <3.0.0'
+  flutter: '>=3.3.3'
 
 dependencies:
   flutter:
     sdk: flutter
-  flutter_inappwebview: ^5.4.3+7
-
+  flutter_inappwebview:
+    path: ../flutter_inappwebview
+  
+    
 dev_dependencies:
   flutter_test:
     sdk: flutter
