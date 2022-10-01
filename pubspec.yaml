@@ -16,9 +16,7 @@ dependencies:
 dependency_overrides:   
   flutter_inappwebview:
     git:
-      url: https://github.com/VictorUvarov/flutter_inappwebview.git
-      ref: ios-16-compile-issue
-  
+      url: https://github.com/MohammedXAbdo/flutter_inappwebview.git  
      
 dev_dependencies:
   flutter_test:

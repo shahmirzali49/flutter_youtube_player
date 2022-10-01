@@ -101,9 +101,9 @@ packages:
     dependency: "direct overridden"
     description:
       path: "."
-      ref: ios-16-compile-issue
-      resolved-ref: b3ec6012d2e92c133c8258bd8eedbb5ee8a9eaac
-      url: "https://github.com/VictorUvarov/flutter_inappwebview.git"
+      ref: HEAD
+      resolved-ref: "93801e0ab78e2e017df2f136e24a59eacf6266e2"
+      url: "https://github.com/MohammedXAbdo/flutter_inappwebview.git"
     source: git
     version: "5.4.3+7"
   flutter_test:
