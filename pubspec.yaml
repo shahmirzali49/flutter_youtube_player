@@ -12,8 +12,6 @@ dependencies:
   flutter:
     sdk: flutter
 
-
-dependency_overrides:   
   flutter_inappwebview:
     git:
       url: https://github.com/MohammedXAbdo/flutter_inappwebview.git  
