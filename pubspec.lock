@@ -100,11 +100,9 @@ packages:
   flutter_inappwebview:
     dependency: "direct main"
     description:
-      path: "."
-      ref: HEAD
-      resolved-ref: "93801e0ab78e2e017df2f136e24a59eacf6266e2"
-      url: "https://github.com/MohammedXAbdo/flutter_inappwebview.git"
-    source: git
+      name: flutter_inappwebview
+      url: "https://pub.dartlang.org"
+    source: hosted
     version: "5.4.3+7"
   flutter_test:
     dependency: "direct dev"
